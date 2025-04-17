@@ -86,8 +86,7 @@ Let’s make political discourse legible again.
 
 ## 💬 Contact
 
-👤 **Mehdi Guiraud**  
-📫 [Your Email]  
+👤 **Mehdi Guiraud** 
 🌐 [https://tech.mehdiguiraud.info](https://tech.mehdiguiraud.info)  
 🐙 GitHub: [@Guiraud](https://github.com/Guiraud)
 🐙 GitLab: [@Guiraud](https://gitlab.com/Guiraud)
