@@ -1,0 +1,55 @@
+# 🗳️ Governance – Adelheid
+
+## Vision
+
+Adelheid is an open-source project with a civic mission: to promote transparency, critical thinking, and accountability in public discourse. Its governance reflects that same commitment — balancing openness with rigor, and independence with inclusiveness.
+
+## Maintainer
+
+**Current Lead Maintainer:**  
+👤 Mehdi Guiraud  
+🔗 [https://github.com/Guiraud](https://github.com/Guiraud)
+
+The lead maintainer is responsible for:
+- Approving pull requests
+- Managing releases
+- Guiding the project vision
+- Encouraging and reviewing contributions
+- Setting and updating technical priorities
+
+## Decision-Making
+
+This project follows a “Benevolent Maintainer” model:
+- Discussion is open to all via GitHub Issues and Discussions
+- Technical and architectural decisions are made by the maintainer
+- Contributors are encouraged to propose changes via Pull Requests
+- Community input is welcome and tracked in Discussions and Issues
+
+## Contributions & Roles
+
+Anyone can contribute! Here are a few key roles that can emerge organically:
+- **Contributor**: submits issues, documentation, or code
+- **Reviewer**: gives feedback on pull requests
+- **Maintainer** (future): may be invited based on significant and sustained contributions
+
+See `CONTRIBUTING.md` for details on how to start.
+
+## Meetings & Transparency
+
+There are currently no scheduled community meetings. If the contributor base grows, periodic check-ins or open office hours may be introduced.
+
+Development progress and direction are documented in:
+- `README.md` (project overview)
+- `ROADMAP.md` (upcoming features — WIP)
+- GitHub Issues & Pull Requests
+
+## Licensing & Ethics
+
+The project uses the MIT license. Contributions must adhere to:
+- The [Code of Conduct](./CODE_OF_CONDUCT.md)
+- A spirit of transparency and non-partisanship
+- The project's goal to support democratic literacy and public empowerment, not partisan advocacy or misinformation
+
+---
+
+_“Clearer discourse builds stronger democracy.”_
